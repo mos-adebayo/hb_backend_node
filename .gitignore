@@ -6,4 +6,5 @@ node_modules/
 out/
 .idea/
 yarn.lock
+app/_thumbnails_/
 TODO
